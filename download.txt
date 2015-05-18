@@ -1,0 +1,7 @@
+wget www.shiyanlou.com
+wget www.163.com
+wget www.baidu.com
+wget www.36kr.com
+wget www.cnblogs.com
+wget www.douban.com
+
