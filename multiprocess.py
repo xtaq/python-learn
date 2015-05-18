@@ -12,4 +12,7 @@ def f(web):
 
 pool = mul.Pool(3)
 pool.map(f, content)
+pool.close()
+for sub in pool:
+    sub.join()
 
